@@ -12,5 +12,9 @@
         "dev": "vitepress dev docs",
         "build": "vitepress build docs",
         "serve": "vitepress serve docs"
+    },
+    "dependencies": {
+        "animate.css": "^4.1.1",
+        "wowjs": "^1.1.3"
     }
 }
